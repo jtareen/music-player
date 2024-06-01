@@ -1,6 +1,6 @@
 # Music Player
 
-Music Player is a sleek and modern music player built using Python and PySide6. This application allows users to automatically load, play, and manage their music files with an intuitive graphical user interface. 
+Music Player is a simple music player built using Python and PySide6. This application allows users to automatically load, play, and manage their music files with an intuitive graphical user interface. 
 
 ![Music Player Screenshot](screenshots/screenshot.png)
 
@@ -80,10 +80,6 @@ Ensure you have Python installed on your system. You can download it from the [o
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
